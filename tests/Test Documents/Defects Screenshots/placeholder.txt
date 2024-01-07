@@ -1,0 +1,1 @@
+This is placeholder file to add defects screenshots , ofcourse in actual working environment Jira is used.
