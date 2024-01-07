@@ -5,3 +5,5 @@ A. Test plan.<br>
 B. Source code.<br>
 C. Instruction to build and run source code<br>
 D. Things that can be done if have more time.
+
+NOTE :- There are some empty folers(src,lib,reports,config) created just to give idea how will be repository structure.
