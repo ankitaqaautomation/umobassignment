@@ -1,0 +1,1 @@
+Automation scripts created by tester - place holder to create repository structure.
